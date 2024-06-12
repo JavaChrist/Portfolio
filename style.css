@@ -53,6 +53,7 @@ body {
 .navbar a:hover {
     color: #0ef;
 }
+
 /* Fin de la navbar  */
 /* Débit de la partie Home  */
 .home {
@@ -589,13 +590,13 @@ section {
     transition: transform 0.5s;
     background: #0053b8f7;
     padding: 1px;
-    
+
 }
 
 .layer {
     width: 100%;
     height: 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), #0ef);
+    background: linear-gradient(rgba(0, 0, 0, 0.616), black);
     position: absolute;
     border-radius: 8px;
     left: 0;
@@ -618,6 +619,7 @@ section {
 }
 
 .layer p {
+
     color: white;
     font-size: 1rem;
     line-height: 1.8;
