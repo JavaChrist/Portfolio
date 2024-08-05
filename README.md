@@ -4,3 +4,5 @@
 
 ##Changement du lien More About Me##
 ##Modification du over de portfolio-content (row)##
+
+### Modification layer p 1.8 en 1.1
