@@ -166,6 +166,11 @@ body {
     0 0 200px cyan;
 }
 
+.presentation-image {
+  width: 250px;
+
+}
+
 /* Début partie About Me  */
 .about {
   display: grid;
@@ -884,6 +889,10 @@ form textarea {
     text-align: center;
   }
 
+  .presentation-image{
+    display: none;
+  }
+
   .about-img img {
     width: 50%;
     height: 50%;
@@ -916,6 +925,9 @@ form textarea {
   .portfolio-content {
     display: flex;
     flex-direction: column;
+  }
+  #skills {
+    margin-bottom: 200px;
   }
 }
 
@@ -996,4 +1008,7 @@ form textarea {
   .row {
     width: 80%;
   }
+  .container1 {
+  padding-left: 10px ;
+}
 }
